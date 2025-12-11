@@ -1,0 +1,1 @@
+print('Pipeline main placeholder - ready to integrate real code')
